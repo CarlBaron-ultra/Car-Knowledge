@@ -22,3 +22,7 @@ If your vehicle has one it is located behind the glove box
 
 ## Cabin filter
 https://youtu.be/U42xcI91eIA?t=139
+
+
+# Resources
+https://haynes.com/en-us/tips-tutorials/changing-cabin-air-filter
