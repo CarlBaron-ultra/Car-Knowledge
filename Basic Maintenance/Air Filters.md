@@ -25,4 +25,5 @@ https://youtu.be/U42xcI91eIA?t=139
 
 
 # Resources
-https://haynes.com/en-us/tips-tutorials/changing-cabin-air-filter
+* https://haynes.com/en-us/tips-tutorials/changing-cabin-air-filter
+* https://haynes.com/en-us/tips-tutorials/changing-engine-air-filter
