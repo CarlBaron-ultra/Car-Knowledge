@@ -12,7 +12,10 @@ Engine coolant keeps the engine running at optimal temperatures and will have co
 * will vary in color
 * Not all coolant is the same. Check vehicle manufactuer's specs to confirm correct coolant type
 
-# Transmission fluid
+# Automatic transmission fluid
+* Typically red colored
+* If it leaks you will know. (Large red puddle under car that looks like someone was murdered, will soak into concrete)
+* Does not need to be replaced often typically somewhere over 50,000 miles consult owners manual for specifics 
 
 # Brake fluid
 Hydraulic fluid for the brake system
