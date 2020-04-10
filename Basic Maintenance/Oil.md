@@ -2,7 +2,11 @@
 
 # Naming convention
 Motor Oil will be labeled with designations like 5w-30 or 0w-20. This designation is the Oils weight, which are standardized by the Society of Automotive Engineers (SAE) is based on the viscosity of the oil. The xW part of the weight is the viscosity at cold or winter temperatures. The numbers following the hypen is the warm or hot temperature viscosity. 
+
 # Types
+* Full synthetic
+* Synthetic blend
+* Conventional 
 
 # How often to replace
 Manufactures ussually create maintenance schedules that are ussually found towards the end of the owners manual that provide details on this. But generally every 5,000 miles, but if not a lot of miles are being put on; annual or bi annual oil changes will also work.
