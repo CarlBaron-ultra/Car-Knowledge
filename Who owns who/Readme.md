@@ -1,3 +1,28 @@
+# BMW
+* BMW
+* Mini
+* Rolls-Royce
+
+# Daimler AG
+* Mercedes-Benz
+* Smart
+
+# Fiat Chrysler Automobiles
+* Abarth
+* Alfa Romero
+* Chrysler
+* Dodge
+* Fiat
+* Jeep
+* Maserati
+* Ram
+
+# Ford
+* Ford
+* Lincoln
+### Defunct
+* Mercury
+
 # GM
 * GMC
 * Chevrolet
@@ -10,32 +35,19 @@
 * Hummer
 * Holden
 
-# Ford
-* Ford
-* Lincoln
-### Defunct
-* Mercury
-
-# Fiat Chrysler Automobiles
-* Abarth
-* Alfa Romero
-* Chrysler
-* Dodge
-* Fiat
-* Jeep
-* Maserati
-* Ram
-
 # Groupe PSA
 * Peugeot
 * Citroen
 * Opel
 * Vauxhall
 
-# BMW
-* BMW
-* Mini
-* Rolls-Royce
+# Honda
+* Acura
+* Honda
+
+# Hyundai Motor Group
+* Hyundai
+* Kia
 
 # Nissan
 * Datsun
@@ -49,10 +61,6 @@
 ### Defunct
 * Scion
 
-# Honda
-* Acura
-* Honda
-
 # Volkswagen Group
 * Audi
 * Bently
@@ -62,10 +70,5 @@
 * Skoda
 * Volkswagen
 
-# Hyundai Motor Group
-* Hyundai
-* Kia
 
-# Daimler AG
-* Mercedes-Benz
-* Smart
+
