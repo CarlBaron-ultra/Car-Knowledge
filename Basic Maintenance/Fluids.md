@@ -15,9 +15,16 @@ Engine coolant keeps the engine running at optimal temperatures and will have co
 # Transmission fluid
 
 # Brake fluid
+Hydraulic fluid for the brake system
+* Located in engine comparment in a translucent container, cap will have a stop sign like symbol on it
+* red-ish color
+* common types are DOT 3 or DOT 4 but check vehicle's owners manual for correct type.
 
 # Power steering fluid
 
+
+# Note
+Ever notice a clear odorless liquid dripping from your car after you turn the engine off? Ussually from the front passenger side and on hot days with A/C ussage? This is water condensate from the A/C compressor its perfectly normal
 
 # Resources
 https://haynes.com/en-us/tips-tutorials/checking-your-cars-fluid-levels
