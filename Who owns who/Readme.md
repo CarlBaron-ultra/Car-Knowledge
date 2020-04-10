@@ -49,10 +49,19 @@
 * Hyundai
 * Kia
 
+# Mazda Motor Corporation
+* Mazda
+
 # Nissan
 * Datsun
 * Infiniti
 * Nissan
+
+# Subaru Corporation
+* Subaru
+
+# Suzuki Motor Corporation 
+* Suzuki
 
 # Toyota
 * Daihatsu
