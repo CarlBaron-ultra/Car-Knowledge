@@ -65,3 +65,7 @@
 # Hyundai Motor Group
 * Hyundai
 * Kia
+
+# Daimler AG
+* Mercedes-Benz
+* Smart
