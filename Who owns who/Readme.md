@@ -24,16 +24,16 @@
 * Mercury
 
 # GM
-* GMC
-* Chevrolet
 * Buick
 * Cadillac
+* Chevrolet
+* GMC
 ### Defunct
+* Holden
+* Hummer
 * Oldsmobile
 * Pontiac
 * Saturn
-* Hummer
-* Holden
 
 # Groupe PSA
 * Peugeot
