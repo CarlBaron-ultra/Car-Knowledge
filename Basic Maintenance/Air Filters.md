@@ -14,10 +14,15 @@ Typically in stores there will be large books that have that info for different 
 
 # Where are the filters located?
 
+## Engine filter
+In the engine compartment look for a large hose that leads to a box, then to the engine. The filter is located inside this box which is typically secured by tabs or clips.
+
 ## Cabin filter
 If your vehicle has one it is located behind the glove box
 
 # How do I replace my filters?
+
+## Engine filter
 
 
 ## Cabin filter
