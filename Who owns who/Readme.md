@@ -1,4 +1,4 @@
-## GM
+# GM
 * GMC
 * Chevrolet
 * Buick
@@ -10,13 +10,13 @@
 * Hummer
 * Holden
 
-## Ford
+# Ford
 * Ford
 * Lincoln
 ### Defunct
 * Mercury
 
-## Fiat Chrysler Automobiles
+# Fiat Chrysler Automobiles
 * Abarth
 * Alfa Romero
 * Chrysler
@@ -26,34 +26,34 @@
 * Maserati
 * Ram
 
-## Groupe PSA
+# Groupe PSA
 * Peugeot
 * Citroen
 * Opel
 * Vauxhall
 
-## BMW
+# BMW
 * BMW
 * Mini
 * Rolls-Royce
 
-## Nissan
+# Nissan
 * Datsun
 * Infiniti
 * Nissan
 
-## Toyota
+# Toyota
 * Daihatsu
 * Lexus
 * Toyota
 ### Defunct
 * Scion
 
-## Honda
+# Honda
 * Acura
 * Honda
 
-## Volkswagen Group
+# Volkswagen Group
 * Audi
 * Bently
 * Bugatti
@@ -61,3 +61,7 @@
 * Porsche
 * Skoda
 * Volkswagen
+
+# Hyundai Motor Group
+* Hyundai
+* Kia
