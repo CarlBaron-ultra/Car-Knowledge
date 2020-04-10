@@ -11,6 +11,7 @@ Not all cars do. When in doubt refer to your vehicles owner manual.
 Typically in stores there will be large books that have that info for different makes and models, and sometimes the owners manual will also have that info. But on websites for autopart stores like advance auto or autozone there is also a search feature that will show the correct filter models for you vehicle.
 
 # How often should I replace the filters?
+Car manufacteurs typically outline the recommended intervals in the owners manual. But in actual practice it depends on driving conditions. Driving frequently in dusty environments or in urban environments with lots of air pollution will dirty the filters quickly. If engine power or fuel efficiency is noticible decreased that could be a indicator that the engine filter needs to be replaced. Visual inspections of the filters is also a good idea. But in general repalceing the filters once a year is not a bad idea.
 
 # Where are the filters located?
 
