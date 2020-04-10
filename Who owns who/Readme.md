@@ -63,6 +63,10 @@
 # Suzuki Motor Corporation 
 * Suzuki
 
+# Tata Motors
+* Jaguar
+* Land Rover
+
 # Toyota
 * Daihatsu
 * Lexus
