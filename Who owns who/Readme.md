@@ -7,16 +7,6 @@
 * Mercedes-Benz
 * Smart
 
-# Fiat Chrysler Automobiles
-* Abarth
-* Alfa Romero
-* Chrysler
-* Dodge
-* Fiat
-* Jeep
-* Maserati
-* Ram
-
 # Ford
 * Ford
 * Lincoln
@@ -35,12 +25,6 @@
 * Pontiac
 * Saturn
 
-# Groupe PSA
-* Peugeot
-* Citroen
-* Opel
-* Vauxhall
-
 # Honda
 * Acura
 * Honda
@@ -56,6 +40,20 @@
 * Datsun
 * Infiniti
 * Nissan
+
+#Stellantis
+* Peugeot
+* Citroen
+* Opel
+* Vauxhall
+* Abarth
+* Alfa Romero
+* Chrysler
+* Dodge
+* Fiat
+* Jeep
+* Maserati
+* Ram
 
 # Subaru Corporation
 * Subaru
